@@ -6,3 +6,6 @@ https://youtu.be/lZD1MIHwMBY?t=5807
 
 https://www.youtube.com/watch?v=lZD1MIHwMBY
 23/2/12 18:26 dockercompose ready
+
+https://youtu.be/lZD1MIHwMBY?t=7167
+23/2/12 15:04 docker-compose up success
